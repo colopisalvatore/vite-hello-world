@@ -1,6 +1,5 @@
 <template>
   <TitlePage />
-  <AppHero />
 </template>
 
 <script>
